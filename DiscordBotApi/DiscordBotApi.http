@@ -1,0 +1,6 @@
+@DiscordBotApi_HostAddress = http://localhost:5170
+
+GET {{DiscordBotApi_HostAddress}}/MemeName/
+Accept: application/json
+
+###
